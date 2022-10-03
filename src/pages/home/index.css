@@ -1,0 +1,32 @@
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+  .header{
+    height: 50px;
+    background-color: rgba(70, 76, 91, 0.898039215686275);
+  }
+  .logo{
+    color: #CCCCCC;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: left;
+  }
+  .ant-layout-sider{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 200px;
+    height: 667px;
+  }
